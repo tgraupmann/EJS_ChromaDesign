@@ -6,6 +6,16 @@ Dedicated browser for working with Chroma Designs
 
 [Electron Forge - Getting Started](https://www.electronforge.io/)
 
+## Dependencies
+
+* Install [NodeJS](https://nodejs.org/)
+
+Yarn
+
+```cli
+npm install --global yarn
+```
+
 ## Setup
 
 Create the EJS Forge Project.
